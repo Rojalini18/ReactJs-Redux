@@ -1,0 +1,19 @@
+.githubimg {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+.gitcard {
+  width: 40%;
+  height: auto;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  background-color: rgb(231, 218, 218);
+}
+.card div {
+  margin-top: 20px;
+  margin-left: 20px;
+}

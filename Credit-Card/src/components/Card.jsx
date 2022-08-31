@@ -12,8 +12,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: space-between;
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
-    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 
   > div {
     height: 45px;
@@ -55,9 +54,7 @@ const Card = ({ userName, cardNumber, month, year, cvc }) => {
         </div>
         <div>
           <p>EXPIRES</p>
-          <p>
-            {month}/{year}
-          </p>
+          <p>{month}/{year}</p>
         </div>
         <div>
           <p>CVC</p>

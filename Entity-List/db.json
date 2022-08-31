@@ -1,0 +1,254 @@
+{
+    "men": [
+      {
+        "id": 1,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220610/oIyV/62a23ff1aeb26921af19fd78/the_indian_garage_co_green_slim_fit_denim_trucker_jacket.jpg",
+        "name": "Slim Fit Denim Trucker Jacket",
+        "price": "699",
+        "strikedoffprice": "1299"
+      },
+      {
+        "id": 2,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211103/EYKv/6181aab2f997ddf8f1f89b08/high_star_brown_panelled_biker_jacket.jpg",
+        "name": "Panelled Biker Jacket",
+        "price": "399",
+        "strikedoffprice": "599"
+      },
+      {
+        "id": 3,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211026/PmjJ/6176fd75aeb2690110a887bd/dnmx_red_zip-front_jacket_with_insert_pockets.jpg",
+        "name": "Zip-Front Jacket with Insert Pockets",
+        "price": "799",
+        "strikedoffprice": "1099"
+      },
+      {
+        "id": 4,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220120/DQF1/61e97fe1f997dd66232f1db5/performax_olive_zip-front_jacket_with_insert_pockets.jpg",
+        "name": "Zip-Front Jacket with Insert Pockets",
+        "price": "399",
+        "strikedoffprice": "499"
+      },
+      {
+        "id": 5,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211207/HdkN/61ae7fe8aeb2690110f83824/duke_maroon_slim_fit_zip-front_jacket.jpg",
+        "name": "Slim Fit Zip-Front Jacket",
+        "price": "1900",
+        "strikedoffprice": "2400"
+      },
+      {
+        "id": 6,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/h8b/h2a/14104039751710/the_indian_garage_co_black_colourblock_slim_fit_zip-front_jacket_with_band_collar.jpg",
+        "name": "Colourblock Slim Fit Zip-Front Jacket",
+        "price": "1200",
+        "strikedoffprice": "2200"
+      },
+      {
+        "id": 7,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210913/QONo/613f70adaeb269a26890c3cc/dnmx_navy_zip-front_bomber_jacket_with_insert_pocket.jpg",
+        "name": "Zip-Front Bomber Jacket with Insert Pocket",
+        "price": "1999",
+        "strikedoffprice": "2100"
+      },
+      {
+        "id": 8,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220218/jBY1/620e9f24f997dd03e2d669fa/-473Wx593H-469038420-black-MODEL.jpg",
+        "name": "RPL Miler Panelled Hooded Jacket",
+        "price": "1800",
+        "strikedoffprice": "3800"
+      },
+      {
+        "id": 9,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211110/yUNH/618bf752aeb2690110bfaa89/campus_sutra_grey_solid_full-length_jacket.jpg",
+        "name": "Solid Full-length Jacket",
+        "price": "1299",
+        "strikedoffprice": "1499"
+      },
+      {
+        "id": 10,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210722/IPma/60f87021f997ddb31230c6ef/superdry_olive_chinook_rescue_bomber_hooded_jacket.jpg ",
+        "name": "Quilted Bombers Jacket with Hoodie",
+        "price": "699",
+        "strikedoffprice": "999"
+      },
+      {
+        "id": 11,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211026/hOvH/6177010ff997ddf8f1e83c9c/dnmx_navy_blue_zip-front_jacket_with_insert_pockets.jpg",
+        "name": "Zip-Front Jacket with Insert Pockets",
+        "price": "1699",
+        "strikedoffprice": "3899"
+      },
+      {
+        "id": 12,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211104/BrDV/61831879aeb2690110b97098/-473Wx593H-441121523-olive-MODEL.jpg",
+        "name": "Camo Print Slim Fit Bomber Jacket",
+        "price": "399",
+        "strikedoffprice": "599"
+      },
+      {
+        "id": 13,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210804/woNi/6109c020f997ddce89921150/-473Wx593H-460934594-black-MODEL.jpg",
+        "name": "Hooded Rain Jacket",
+        "price": "799",
+        "strikedoffprice": "1099"
+      },
+      {
+        "id": 14,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211104/hx85/61831ad7aeb2690110b97e68/-473Wx593H-460974971-black-MODEL3.jpg",
+        "name": "Sports Puffer Hooded Jacket",
+        "price": "1599",
+        "strikedoffprice": "2300"
+      },
+      {
+        "id": 15,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20201224/7A8c/5fe38f98aeb269d563500fb4/high_star_blue_mid-wash_distressed_button-down_jacket.jpg",
+        "name": "Mid-Wash Distressed Button-Down Jacket",
+        "price": "7999",
+        "strikedoffprice": "1100"
+      },
+      {
+        "id": 16,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220118/hdAb/61e5b956f997dd6623267ac6/the_indian_garage_co_black_slim_fit_zip-front_jacket_with_contrast_stripes.jpg",
+        "name": "Washed Denim Jacket with Flap Pockets",
+        "price": "7999",
+        "strikedoffprice": "1100"
+      }
+    ],
+    "women": [
+      {
+        "id": 1,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220107/dCL3/61d834d5aeb2695cdd09747a/-473Wx593H-441129589-magntafusha-MODEL.jpg",
+        "name": "PERFORMAX Zip-Front Hoodie with Insert Pockets ",
+        "price": "1899",
+        "strikedoffprice": "2299"
+      },
+      {
+        "id": 2,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210402/yKJF/6067359b7cdb8c1f1473a60d/-473Wx593H-441119085-jetblack-MODEL.jpg",
+        "name": "TEAMSPIRIT Joggers with Contrast Side Taping",
+        "price": "1499",
+        "strikedoffprice": "1799"
+      },
+      {
+        "id": 3,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211112/Ep1v/618e8a7bf997ddf8f1037901/-473Wx593H-441134185-jetblack-MODEL.jpg",
+        "name": "DNMX Typographic Print Slim Fit Round-Neck T-shirt",
+        "price": "299",
+        "strikedoffprice": "499"
+      },
+      {
+        "id": 4,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220429/wFKV/626c0a1aaeb26921af4c0f42/-473Wx593H-441134795-jetblack-MODEL.jpg",
+        "name": "PERFORMAX Colourblock Joggers with Insert Pockets",
+        "price": "799",
+        "strikedoffprice": "1499"
+      },
+      {
+        "id": 5,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211006/1wGN/615dba87aeb2692b85b1eac9/-473Wx593H-441128815-darkgrey-MODEL.jpg",
+        "name": "DNMX Minnie Print Crew-Neck Sweatshirt",
+        "price": "399",
+        "strikedoffprice": "599"
+      },
+      {
+        "id": 6,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211125/DxzH/619e84bbf997ddf8f119c98a/-473Wx593H-441134066-jetblack-MODEL.jpg",
+        "name": "DNMX Donald Duck Print Crew-Neck Sweatshirt",
+        "price": "1499",
+        "strikedoffprice": "2800"
+      },
+      {
+        "id": 7,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220512/9SDC/627cedcdf997dd03e2b0ba2c/-473Wx593H-462014745-black-MODEL.jpg",
+        "name": "BUYNEWTREND Dungaree with Striped Detail",
+        "price": "899",
+        "strikedoffprice": "1099"
+      },
+      {
+        "id": 8,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210824/2Sit/6124144cf997ddce89a9042d/-473Wx593H-441121259-mustard-MODEL.jpg",
+        "name": "DNMX Knitted Turtle-Neck Pullover",
+        "price": "1309",
+        "strikedoffprice": "1700"
+      },
+      {
+        "id": 9,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220302/NVPi/621e780aaeb26921afbfacec/-473Wx593H-441245197-indigo-MODEL.jpg",
+        "name": "LEE COOPER Lightly Distressed Denim Shorts",
+        "price": "1300",
+        "strikedoffprice": "1500"
+      },
+      {
+        "id": 10,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220420/Bi3k/625f9786f997dd03e26a6d68/-473Wx593H-463598848-nude-MODEL.jpg",
+        "name": "GIBELLE Solid Slip-Ons Sandals",
+        "price": "299",
+        "strikedoffprice": "399"
+      },
+      {
+        "id": 11,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211119/M3nu/6196a782aeb2690110cc87eb/-473Wx593H-460823500-grey-MODEL.jpg",
+        "name": "PUMA Concave Loop IDP Logo Print Running Shoes",
+        "price": "1499",
+        "strikedoffprice": "1799"
+      },
+      {
+        "id": 12,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220608/erEj/62a063c2aeb26921af168ff8/-473Wx593H-460437055-black-MODEL.jpg",
+        "name": "MARC LOIRE Pointy-Toe Heeled Sandals with Buckle Closure",
+        "price": "1599",
+        "strikedoffprice": "2099"
+      },
+      {
+        "id": 13,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210511/Nrk3/609aa895f997ddb3129b038d/-473Wx593H-460857700-black-MODEL.jpg",
+        "name": "ADORLY Textured Sliders with Ruched Strap",
+        "price": "999",
+        "strikedoffprice": "1299"
+      },
+      {
+        "id": 14,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20200923/UW69/5f6b65b7f997dd8c834b0142/-473Wx593H-460729125-tan-MODEL.jpg",
+        "name": "ILLIMITE Peep-Toe Textured Block Heels",
+        "price": "1199",
+        "strikedoffprice": "1499"
+      },
+      {
+        "id": 15,
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211204/6j47/61aa81a5f997ddf8f137ce93/-473Wx593H-463434414-brown-MODEL4.jpg",
+        "name": "TRASE Ankle-Length Boots with Zipper",
+        "price": "1599",
+        "strikedoffprice": "1899"
+      }
+    ],
+    "cart": [
+      {
+        "id": "Men/6",
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/h90/h2e/15485288054814/-473Wx593H-460571478-black-MODEL.jpg",
+        "name": "Petronas Motorsport Baseball Cap",
+        "price": "1200",
+        "strikedoffprice": "2200"
+      },
+      {
+        "id": "Women/9",
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20220302/NVPi/621e780aaeb26921afbfacec/-473Wx593H-441245197-indigo-MODEL.jpg",
+        "name": "LEE COOPER Lightly Distressed Denim Shorts",
+        "price": "1300",
+        "strikedoffprice": "1500"
+      },
+      {
+        "id": "Men/12",
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20210427/EYuo/6087086faeb269a9e3a1b137/-473Wx593H-460889878-black-MODEL.jpg ",
+        "name": "WH419B Genuine Leather Bi-Fold Wallet",
+        "price": "399",
+        "strikedoffprice": "599"
+      },
+      {
+        "id": "Women/11",
+        "image_url": "https://assets.ajio.com/medias/sys_master/root/20211119/M3nu/6196a782aeb2690110cc87eb/-473Wx593H-460823500-grey-MODEL.jpg",
+        "name": "PUMA Concave Loop IDP Logo Print Running Shoes",
+        "price": "1499",
+        "strikedoffprice": "1799"
+      }
+    ]
+  }
+  
