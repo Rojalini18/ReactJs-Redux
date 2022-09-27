@@ -1,0 +1,11 @@
+.form {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+  margin: auto;
+}
